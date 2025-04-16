@@ -20,6 +20,8 @@ Pointers – Learn the basics of pointers, memory addresses, and pointer arithme
 File Handling – Perform file operations like reading from and writing to text files.
 
 Object-Oriented Programming (OOP) – Get introduced to classes, objects, constructors, and access specifiers
+
+
 🧠 Introduction to C++
 C++ is a general-purpose, high-performance programming language created by Bjarne Stroustrup in 1979 at Bell Labs. It was developed as an extension of the C language with added Object-Oriented Programming (OOP) features.
 
