@@ -37,6 +37,7 @@ It is often called the "middle-level" language because it supports both low-leve
 📚 As a strong foundation for understanding programming logic.
 
 🧱 It’s often used in competitive programming due to fast execution.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roboverse-1&show_icons=true&locale=en&layout=compact" alt="roboverse-1" /></p>
 
  
                    
