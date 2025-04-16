@@ -21,7 +21,7 @@ File Handling – Perform file operations like reading from and writing to text 
 
 Object-Oriented Programming (OOP) – Get introduced to classes, objects, constructors, and access specifiers
 
-
+<img src="https://e0.pxfuel.com/wallpapers/34/730/desktop-wallpaper-c-programming-c-programming-language.jpg" alt="">
 🧠 Introduction to C++
 C++ is a general-purpose, high-performance programming language created by Bjarne Stroustrup in 1979 at Bell Labs. It was developed as an extension of the C language with added Object-Oriented Programming (OOP) features.
 
@@ -38,5 +38,5 @@ It is often called the "middle-level" language because it supports both low-leve
 
 🧱 It’s often used in competitive programming due to fast execution.
 
- <img src="https://e0.pxfuel.com/wallpapers/34/730/desktop-wallpaper-c-programming-c-programming-language.jpg" alt="">
+ 
                    
