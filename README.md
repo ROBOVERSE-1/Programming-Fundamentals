@@ -38,5 +38,5 @@ It is often called the "middle-level" language because it supports both low-leve
 
 🧱 It’s often used in competitive programming due to fast execution.
 
-
+ <img src="https://c4.wallpaperflare.com/wallpaper/935/690/342/c-plus-plus-c-code-wallpaper-preview.jpg" alt="">
                    
