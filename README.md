@@ -37,5 +37,6 @@ It is often called the "middle-level" language because it supports both low-leve
 📚 As a strong foundation for understanding programming logic.
 
 🧱 It’s often used in competitive programming due to fast execution.
+ <img src="https://media.licdn.com/dms/image/v2/D5612AQE03WW0tnU2wg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1675014214058?e=2147483647&v=beta&t=ruspsL2Uk5GJzvBiz-cPI3656BwKEcMtAcDzTWs8Ato" alt="">
 
                    
