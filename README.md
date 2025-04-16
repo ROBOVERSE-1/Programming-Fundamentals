@@ -20,3 +20,41 @@ Pointers – Learn the basics of pointers, memory addresses, and pointer arithme
 File Handling – Perform file operations like reading from and writing to text files.
 
 Object-Oriented Programming (OOP) – Get introduced to classes, objects, constructors, and access specifiers
+🧠 Introduction to C++
+C++ is a general-purpose, high-performance programming language created by Bjarne Stroustrup in 1979 at Bell Labs. It was developed as an extension of the C language with added Object-Oriented Programming (OOP) features.
+
+It is often called the "middle-level" language because it supports both low-level programming (like C) and high-level abstraction (like Java).
+
+🔍 Need for C++
+✅ Why do we still use and learn C++?
+
+🎮 For applications where speed and memory control are crucial.
+
+🧰 To build system software like OS, drivers, and compilers.
+
+📚 As a strong foundation for understanding programming logic.
+
+🧱 It’s often used in competitive programming due to fast execution.
+
+                    +-------------------------+
+                    |       C++ Language      |
+                    +-------------------------+
+                             |
+       +---------------------+---------------------+
+       |                                           |
++--------------+                          +--------------------+
+| Procedural   |                          | Object-Oriented     |
+| Programming  |                          | Programming (OOP)    |
++--------------+                          +--------------------+
+       |                                           |
++--------------+                         +---------------------+
+| C-style Code |                         | Classes & Objects    |
+| Functions    |                         | Inheritance, etc.    |
++--------------+                         +---------------------+
+       \                                           /
+        \                                         /
+         +-------------------+-------------------+
+                         |
+              +---------------------+
+              | Real-world Software |
+              +---------------------+
