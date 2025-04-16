@@ -36,25 +36,4 @@ It is often called the "middle-level" language because it supports both low-leve
 
 🧱 It’s often used in competitive programming due to fast execution.
 
-                    +-------------------------+
-                    |       C++ Language      |
-                    +-------------------------+
-                             |
-       +---------------------+---------------------+
-       |                                           |
-+--------------+                          +--------------------+
-| Procedural   |                          | Object-Oriented     |
-| Programming  |                          | Programming (OOP)    |
-+--------------+                          +--------------------+
-       |                                           |
-+--------------+                         +---------------------+
-| C-style Code |                         | Classes & Objects    |
-| Functions    |                         | Inheritance, etc.    |
-+--------------+                         +---------------------+
-       \                                           /
-        \                                         /
-         +-------------------+-------------------+
-                         |
-              +---------------------+
-              | Real-world Software |
-              +---------------------+
+                   
