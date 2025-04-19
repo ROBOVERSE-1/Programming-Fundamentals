@@ -24,7 +24,7 @@ excerpt from table is shown.
 
 
 Exercise 5:                                                                                             
-Write a C++ program that displays following pattern
+Write a C++ program that displays following pattern(by using only cout)
 
   cccc    +        +
  c        +        +
