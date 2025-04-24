@@ -1,0 +1,33 @@
+Exercise - 1 (5 points) 
+Write a code in C++ to display your name, roll number, degree and semester on console in 
+following way. Use “\t” to give tab space between each field
+
+Exercise - 2 (10 points) 
+Declare three variables (A,B,C) of type int in C++. Take input from console in each 
+variable. Now write code such that following is displayed on screen: 
+A       B        C 
+[A]*2   [B]*2    [C]*2 
+[A]+3   [B]+2    [C]+2
+
+
+Exercise - 3 (5 points) 
+Write a code in C++ to display following on console: (by using only cout)
+   * 
+  ** 
+ *** 
+**** 
+
+
+Exercise 4:  
+Write a C++ program that displays a table of 06 entries that contains square and cube of numbers. An 
+excerpt from table is shown.  
+
+
+Exercise 5:                                                                                             
+Write a C++ program that displays following pattern(by using only cout)
+
+  cccc    +        +
+ c        +        +
+c      +++++++  +++++++
+ c        +        +
+  cccc    +        +
