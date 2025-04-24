@@ -1,0 +1,19 @@
+Exercise 01:
+Write a program to display the following table using manipulators setw(
+ID     Name        Score  
+001    Alice       92.5  
+002    Bob         88.0  
+003    Charlie     95.25 
+
+
+Exercise 02:
+Create a program where an int and a float are added together
+
+Exercise 03:
+Write a program that converts a double to an int.
+
+
+Exercise 04:
+Write a C++ program that:
+Takes two double numbers as input
+Adds them and type casts the result to an int
